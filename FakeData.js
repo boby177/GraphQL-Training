@@ -1,10 +1,10 @@
 const UserList = [
     {
       id: 1,
-      name: "John",
-      username: "john",
-      age: 20,
-      nationality: "CANADA",
+      name: "Boby",
+      username: "Bob177",
+      age: 24,
+      nationality: "INDONESIA",
       friends: [
         {
           id: 2,
