@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@graphql-yoga/node": "^3.3.0",
+    "@pothos/core": "^3.24.0",
+    "@pothos/plugin-with-input": "3.9.7",
+    "graphql": "^16.6.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "pothos_yoga_graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
